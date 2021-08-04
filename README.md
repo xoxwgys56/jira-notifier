@@ -1,9 +1,4 @@
 # Jira Notifier
 
-## Stack
+using AWS Lambda
 
-- python 3.8
-
-## Env
-
-- AWS Lambda
